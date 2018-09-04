@@ -1,12 +1,22 @@
 /* ==UserStyle==
-@name         Dark Crunchyroll
-@description  Dark Mode for Crunchyroll.com
-              Original by: MatthewCoccon
-              Redesigned by: Soitora
-@namespace    github.com/ottnorml/XHS-Styles
-@version      1.0.0
-@author       Ottnorml (https://github.com/ottnorml)
-@license      GNU General Public License v3 (GPL-3)
+                
+@name           Dark Crunchyroll
+@description    Dark Mode for Crunchyroll.com
+                Original by: MatthewCoccon
+                Redesigned by: Soitora
+@namespace      github.com/ottnorml/XHS-Styles
+@version        1.0.0
+@author         Ottnorml (https://github.com/ottnorml)
+@license        GNU General Public License v3 (GPL-3)
+
+@advanced       color bgcolor       "Background Color"          #191919;
+@advanced       color bcolor        "Body Color"                #1E1E1E;
+@advanced       color text1         "Text Color[[Main]]"        #8A8A8A;
+@advanced       color text2         "Text Color[[Secondary]]"   #A8A8A8;
+@advanced       color text3         "Text Color[[Third]]"       #14A9FF;
+@advanced       color specialtext   "Text Color[[Special]]"     #0A6DA4;
+@advanced       color crorange      "Crunchyroll Orange"        #F78C25;
+@advanced       color border        "Border Color"              #2E2E2E;
 ==/UserStyle== */
 
 @-moz-document domain("crunchyroll.com") {
