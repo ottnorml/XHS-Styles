@@ -1,13 +1,15 @@
-@-moz-document domain("crunchyroll.com") {
-/* Dark Mode for Crunchyroll.com
-* Original by: MatthewCoccon
-* Redesigned by: Soitora
-* Created: 2018-02-21
-* Updated: 2018-02-22
-* Version: 1.0
-* Licence: GNU General Public License v3 (GPL-3).
-*/
+/* ==UserStyle==
+@name         Dark Crunchyroll
+@description  Dark Mode for Crunchyroll.com
+              Original by: MatthewCoccon
+              Redesigned by: Soitora
+@namespace    github.com/ottnorml/XHS-Styles
+@version      1.0.0
+@author       Ottnorml (https://github.com/ottnorml)
+@license      GNU General Public License v3 (GPL-3)
+==/UserStyle== */
 
+@-moz-document domain("crunchyroll.com") {
 /* Main */
 .container-shadow {
     background-color: /*[[bgcolor]]*/;
